@@ -46,17 +46,9 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
+<p align="left gap-4">
 <a href="https://linkedin.com/in/korakrit pongpanjasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="korakrit pongpanjasil" height="30" width="40" /></a>
-  <a href="mailto:korakrit.pongpanjasil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p> -->
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://linkedin.com/in/korakrit pongpanjasil?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  
   <a href="mailto:korakrit.pongpanjasil@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
