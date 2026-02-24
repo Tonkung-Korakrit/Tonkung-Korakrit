@@ -1,24 +1,46 @@
 <h1 align="center">Hi 👋, I'm Tonkung</h1>
-<h3 align="center">Full-stack Developer | Cloud & DevOps Enthusiast -> I’m a developer focused on building robust web applications and automating cloud infrastructure. My work bridges the gap between clean code and scalable deployment, with a strong interest in **Platform Engineering** and **System Architecture**.</h3>
+<p align="center">
+  <strong>Full-stack Developer | Cloud & DevOps Enthusiast</strong>
+</p>
+
+<p align="center">
+  <i>"Bridging the gap between clean code and scalable deployment, with a focus on Platform Engineering."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 **Focusing on:** Building robust web applications and automating cloud infrastructure.
+- 🌱 **Learning Path:** Mastering **Kubernetes**, **Jenkins (CI/CD)**, and advanced **Terraform** workflows.
+- ⚡ **Interest:** System Architecture, Platform Engineering, and occasionally smashing it on a **Badminton** court. 🏸
+
+---
 
 ### 📁 Featured Projects
 
 #### 🏢 [Dorm-Hub / Tudorm Booking System](https://github.com/Tonkung-Korakrit/dorm-hub)
-product 
-A full-stack dormitory management solution designed for seamless booking experiences.
-- **Stack:** Next.js, TypeScript, Prisma, MySQL.
-- **DevOps:** Containerized with Docker for consistent development and deployment.
-- **Products in deploy:** [final project dorm-hub](tudormbooking-production.up.railway.app)
+> A full-stack dormitory management solution designed for seamless booking experiences.
+- **Stack:** Next.js, TypeScript, Prisma, MySQL
+- **DevOps:** Containerized with **Docker** for consistent environment parity.
+- **Live Demo:** [🚀 View Production Site](https://tudormbooking-production.up.railway.app)
 
 #### ☁️ [Cloud Infrastructure Portfolio](https://github.com/Tonkung-Korakrit/portfolio)
-Demonstrating modern DevOps practices through Infrastructure as Code (IaC).
+> Demonstrating modern DevOps practices through Infrastructure as Code (IaC).
 - **Core:** Deploying Next.js applications on **Amazon EKS** clusters.
 - **Automation:** Using **Terraform** for provisioning cloud resources and maintaining state.
 
 #### 🎓 [CS360 Cloud Computing Project](https://github.com/Tonkung-Korakrit/cs360-cloud)
-An academic deep-dive into cloud-native architectures and distributed systems.
+> An academic deep-dive into cloud-native architectures and distributed systems.
 
-- 🌱 I’m currently learning: kubernetes + docker + terraform + jenkins and skills related to DevOps
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
