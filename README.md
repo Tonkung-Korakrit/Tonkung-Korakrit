@@ -26,6 +26,12 @@
 
 ### 📁 Featured Projects
 
+#### 🌐 [Interactive Portfolio & Digital Showcase](https://my-portfolioby-tonkung.vercel.app)
+> This is my centralized hub where I showcase my journey as a Full-stack Developer and DevOps enthusiast. It features a curated collection of my projects, technical skills, and professional experience.
+- **Built with:** Next.js, Tailwind CSS, and Framer Motion for smooth UI transitions.
+- **Hosted on:** Vercel cloud.
+- **[🚀 Explore My Full Portfolio](https://my-portfolioby-tonkung.vercel.app)**
+
 #### 🏢 [Dorm-Hub / Tudorm Booking System](https://github.com/Tonkung-Korakrit/dorm-hub)
 > A full-stack dormitory management solution designed for seamless booking experiences.
 - **Stack:** Next.js, TypeScript, Prisma, MySQL
@@ -36,7 +42,7 @@
 > Practice modern DevOps practices through Infrastructure as Code (IaC).
 - **Core:** Deploying Next.js applications on **Amazon EKS** clusters.
 - **Automation:** Using **Terraform** for provisioning cloud resources and maintaining state.
-- **Live Demo:** [🚀 View Portfolio tonkung](https://my-portfolioby-tonkung.vercel.app)
+- **Live Demo:** [🚀 View DevOps_Trainee.git](https://github.com/Tonkung-Korakrit/DevOps_Trainee.git)
 
 #### 🧪 [CS262 Software Engineering Testing](https://github.com/Tonkung-Korakrit/CS262_Software_Engineer_Testing)
 > Focused on software quality, implementing various testing strategies to ensure system reliability.
