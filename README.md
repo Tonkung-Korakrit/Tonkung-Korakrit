@@ -53,8 +53,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/korakrit-pongpanjasil" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
+  <a href="https://www.linkedin.com/in/korakrit-pongpanjasil-588645354/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="korakrit pongpanjasil" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:korakrit.pongpanjasil@gmail.com">
